@@ -1,8 +1,8 @@
-• 🔭 I'm currently working on Building scalable web applications using the MERN stack and exploring microservices architecture.
-• 👯 I'm looking to collaborate on Open-source projects related to fullstack development, REST APIs, or developer tooling.
-• 🤝 I'm looking for help with Advanced system design, performance optimization, and deployment strategies on cloud platforms like AWS.
-• 🌱 I'm currently learning TypeScript, Next.js, and diving deeper into DevOps practices (Docker, Kubernetes).
-• 💬 Ask me about JavaScript, React, Node.js, database design, or anything related to fullstack development!
+• 🔭 I'm currently working on Building scalable web applications using the MERN stack and exploring microservices architecture.</br>
+• 👯 I'm looking to collaborate on Open-source projects related to fullstack development, REST APIs, or developer tooling.</br>
+• 🤝 I'm looking for help with Advanced system design, performance optimization, and deployment strategies on cloud platforms like AWS.</br>
+• 🌱 I'm currently learning TypeScript, Next.js, and diving deeper into DevOps practices (Docker, Kubernetes).</br>
+• 💬 Ask me about JavaScript, React, Node.js, database design, or anything related to fullstack development!</br>
 • ⚡ Fun fact I once debugged a production issue for 6 hours only to realize it was a missing semicolon — now I never skip linting! 😄
 
 ## 🌐 Socials:
