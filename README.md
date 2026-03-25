@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 
 • 🔭 I'm currently working on Building scalable web applications using the MERN stack and exploring microservices architecture.</br>
 • 👯 I'm looking to collaborate on Open-source projects related to fullstack development, REST APIs, or developer tooling.</br>
