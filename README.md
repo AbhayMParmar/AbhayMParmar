@@ -5,7 +5,7 @@
 • 🤝 I'm looking for help with Advanced system design, performance optimization, and deployment strategies on cloud platforms like AWS.</br>
 • 🌱 I'm currently learning TypeScript, Next.js, and diving deeper into DevOps practices (Docker, Kubernetes).</br>
 • 💬 Ask me about JavaScript, React, Node.js, database design, or anything related to fullstack development!</br>
-• ⚡ Fun fact I once debugged a production issue for 6 hours only to realize it was a missing semicolon — now I never skip linting!😄
+• ⚡ Fun fact I once debugged a production issue for 6 hours only to realize it was a missing semicolon —now I never skip linting!😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techclipshub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-parmar-35914b33b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhayparmar359@gmail.com) 
